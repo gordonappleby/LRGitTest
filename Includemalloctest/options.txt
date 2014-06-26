@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Data\LoadRunnerScripts\Includemalloctest
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\data\loadrunnerscripts\includemalloctest\\logfile.log
+c:\data\loadrunnerscripts\includemalloctest\\combined_Includemalloctest.c
+c:\data\loadrunnerscripts\includemalloctest\\pre_cci.c
